@@ -4,7 +4,7 @@ Learning Project E-Shoping with PHP Native
 
 ## Warning !!!
 
-This project is only for practice and there are still many limitations such as user authentication, therefore anyone who uses this code can develop it even better.
+This project is only for practice and there are still many limitations such as user authentication, checkout order, therefore anyone who uses this code can develop it even better.
 
 ## Database
 - product
